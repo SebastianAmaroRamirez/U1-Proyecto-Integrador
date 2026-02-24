@@ -275,7 +275,7 @@ En lugar de animar la posición de la cámara cuadro por cuadro (lo cual sería 
 - **Offset Factor:**	El valor que va de 0.0 (inicio) a 1.0 (final). Es lo que realmente se anima.
 
 ----
-:fa-picture-o: **Capturas**
+:camera: **Capturas**
 ----
 
 #### **Código**
@@ -289,6 +289,8 @@ En lugar de animar la posición de la cámara cuadro por cuadro (lo cual sería 
 <img width="465" height="582" alt="image" src="https://github.com/user-attachments/assets/e0381c19-645c-446f-af66-8303182fbcb2" />
 
 <img width="647" height="305" alt="image" src="https://github.com/user-attachments/assets/29e37949-4b31-41ab-b8c4-a555c9560912" />
+
+-------
 
 #### **Resultado**
 <img width="1182" height="504" alt="image" src="https://github.com/user-attachments/assets/9e98d119-ebd6-42cb-8865-bd5df6f6d8e9" />
